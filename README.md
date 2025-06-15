@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **C++, Unreal Engine, Blueprint**
 
-- 👨‍💻 All of my projects are available at [yangs6310.wixsite.com/albertmaj](yangs6310.wixsite.com/albertmaj)
+- 👨‍💻 All of my projects are available at www.*******.pl
 
-- 📝 I regularly write articles on [https://www.instagram.com/wiedzaulotna/](https://www.instagram.com/wiedzaulotna/)
+- 📝 I regularly write articles on www.******.pl
 
 - 📫 How to reach me **majalbert@proton.me**
 
